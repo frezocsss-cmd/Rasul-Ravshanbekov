@@ -1,5 +1,5 @@
 #💫 About Me:
-# Hi, I'm Rasul 👋<br><br>💻 Frontend Developer passionate about building modern web applications.<br><br>- ⚡ Working with React, JavaScript and TypeScript<br>- 🎨 Focused on clean UI/UX and responsive design<br>- 🚀 Building real-world digital products<br>- 🌱 Always learning and improving my skills<br>- 🤝 Open to interesting projects and collaborations<br><br>**Tech Stack:** React | JavaScript | TypeScript | HTML | CSS | Tailwind CSS | Git | Supabase<br><br>**Portfolio:** https://rasulweb.uz
+Hi, I'm Rasul 👋<br><br>💻 Frontend Developer passionate about building modern web applications.<br><br>- ⚡ Working with React, JavaScript and TypeScript<br>- 🎨 Focused on clean UI/UX and responsive design<br>- 🚀 Building real-world digital products<br>- 🌱 Always learning and improving my skills<br>- 🤝 Open to interesting projects and collaborations<br><br>**Tech Stack:** React | JavaScript | TypeScript | HTML | CSS | Tailwind CSS | Git | Supabase<br><br>**Portfolio:** https://rasulweb.uz
 
 
 ## 🌐 Socials:
